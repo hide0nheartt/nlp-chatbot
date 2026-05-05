@@ -1,0 +1,8 @@
+VECTOR_STORE/
+embedding_model/
+output_files/
+__pycache__/
+*.exe
+*.pt
+*.bin
+*.json
